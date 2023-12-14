@@ -91,6 +91,7 @@ function App() {
               <p>
                 <b>Capital:</b> {country.capital}
               </p>
+              <button>Add</button>
             </div>
           </Country>         
         ))}
